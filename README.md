@@ -6,7 +6,7 @@
 
 > “One account. No database. Infinite chaos.”
 
-Designed using pure functions and occasional panic.  
+Designed using problamatic classes and functions and occasional panic.  
 Users could deposit, withdraw, and maybe break the system if they sneezed too hard.  
 Balance checks were optional, because... Indian ATM realism 🇮🇳  
 
@@ -27,3 +27,4 @@ Still running on `print()`-based UI, but hey — every empire starts small.
 
 🧠 **Dev Quote:**  
 “One runtime error can’t scare me now. I use classes.”
+
